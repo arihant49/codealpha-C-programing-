@@ -8,8 +8,9 @@ Welcome to my repository for the **CodeAlpha C Programming Internship**! This pr
 
 This repository includes the following C programming implementations:
 
-* **[Task 1 Name  Simple Calculator**: A basic implementation demonstrating `[mention core concept used, e.g., control flow, switch cases]`.
-* **[Task 2 Name (e.g., Student Management System)]**: A program focused on `[mention core concept used, e.g., file handling, structures]`.
-* **[Task 3 Name (e.g., Number Guessing Game)]**: An interactive game showcasing `[mention core concept used, e.g., random number generation, loops]`.
+* **Task 1 Simple Calculator**
+* **Task 2 matrix**
+* **Task 3 Student Management System**
+
 
 ---
